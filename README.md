@@ -10,6 +10,11 @@
 
 ```bash
 $ cd <project>
+$ mkdir build
+$ cd build
+$ mkdir js
+$ mkdir css
+$ cd ..
 $ npm install
 ```
 
