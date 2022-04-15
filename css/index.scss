@@ -1,0 +1,8 @@
+$background-color: gray;
+$global-font: Poppins, sans-serif;
+
+html,
+body {
+  background-color: $background-color;
+  font-family: $global-font;
+}
